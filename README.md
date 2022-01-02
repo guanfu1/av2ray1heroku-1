@@ -12,7 +12,7 @@
 > /v2ray/key.pem
 > ```
 
-[V2ray-core下载](https://github.com/xiaokaixuan/v2ray-heroku/releases/tag/v4.40.1)
+[V2ray-core下载](https://github.com/guanfu1/av2ray1heroku-1/releases/tag/v4.40.1)
 
 ### 参考 
 *https://github.com/v2fly/v2ray-core*
